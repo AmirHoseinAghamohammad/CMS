@@ -26,3 +26,4 @@ C:\Users\acer\source\repos\CMS\DataLayer\bin\Debug\System.Web.Razor.xml
 C:\Users\acer\source\repos\CMS\DataLayer\bin\Debug\System.Web.WebPages.xml
 C:\Users\acer\source\repos\CMS\DataLayer\bin\Debug\System.Web.WebPages.Deployment.xml
 C:\Users\acer\source\repos\CMS\DataLayer\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\acer\source\repos\CMS\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
