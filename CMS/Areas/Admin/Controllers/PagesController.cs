@@ -109,11 +109,8 @@ namespace CMS.Areas.Admin.Controllers
                         System.IO.File.Delete(Server.MapPath("/PageImages/" + page.ImageName));
                     }
 
-
                     page.ImageName = Guid.NewGuid() + Path.GetExtension(ImgUp.FileName);
                     ImgUp.SaveAs(Server.MapPath("/PageImages/" + page.ImageName));
-
-
 
                 }
                 PageRepository.UpdatePage(page);

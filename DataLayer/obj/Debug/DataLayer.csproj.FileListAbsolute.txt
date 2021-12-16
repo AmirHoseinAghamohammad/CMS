@@ -12,7 +12,6 @@ C:\Users\acer\source\repos\CMS\DataLayer\obj\Debug\DataLayer.Migrations.Initial_
 C:\Users\acer\source\repos\CMS\DataLayer\obj\Debug\DataLayer.csproj.GenerateResource.cache
 C:\Users\acer\source\repos\CMS\DataLayer\obj\Debug\DataLayer.Migrations.Add_Tags_Pages.resources
 C:\Users\acer\source\repos\CMS\DataLayer\obj\Debug\DataLayer.Migrations.Add_AdminLogin.resources
-C:\Users\acer\source\repos\CMS\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
 C:\Users\acer\source\repos\CMS\DataLayer\bin\Debug\Microsoft.Web.Infrastructure.dll
 C:\Users\acer\source\repos\CMS\DataLayer\bin\Debug\System.Web.Helpers.dll
 C:\Users\acer\source\repos\CMS\DataLayer\bin\Debug\System.Web.Mvc.dll
@@ -26,4 +25,4 @@ C:\Users\acer\source\repos\CMS\DataLayer\bin\Debug\System.Web.Razor.xml
 C:\Users\acer\source\repos\CMS\DataLayer\bin\Debug\System.Web.WebPages.xml
 C:\Users\acer\source\repos\CMS\DataLayer\bin\Debug\System.Web.WebPages.Deployment.xml
 C:\Users\acer\source\repos\CMS\DataLayer\bin\Debug\System.Web.WebPages.Razor.xml
-C:\Users\acer\source\repos\CMS\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\CMS\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
