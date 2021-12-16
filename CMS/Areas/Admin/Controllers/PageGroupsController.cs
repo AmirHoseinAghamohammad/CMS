@@ -26,20 +26,7 @@ namespace CMS.Areas.Admin.Controllers
             return View(PageGroupRepository.GetAllPagegroup());
         }
 
-        // GET: Admin/PageGroups/Details/5
-        public ActionResult Details(int? id)
-        {
-            if (id == null)
-            {
-                return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
-            }
-            PageGroup pageGroup = PageGroupRepository.GetGroupByID(id.Value);
-            if (pageGroup == null)
-            {
-                return HttpNotFound();
-            }
-            return View(pageGroup);
-        }
+
 
         // GET: Admin/PageGroups/Create
         public ActionResult Create()
